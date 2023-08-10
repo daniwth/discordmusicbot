@@ -1,2 +1,2 @@
 # discordmusicbot
-A multifunctional discord music bot.
+A multifunctional discord music bot. (Under Construction)
